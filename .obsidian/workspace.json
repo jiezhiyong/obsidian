@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "preview",
+                "file": "git/index.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "index"
             }
           }
         ],
@@ -184,11 +184,16 @@
   },
   "active": "cea45b117bdc927f",
   "lastOpenFiles": [
+    "terminal/index.md",
+    "git/index.md",
+    "git",
+    "typescript/index.md",
+    "README.md",
+    "terminal",
+    "未命名.md",
     "react/index.md",
     "react/react-compiler.md",
-    "typescript/index.md",
     "react-native",
-    "README.md",
     "typescript",
     "nodejs",
     "prisma",
@@ -196,8 +201,6 @@
     "css",
     "javascript",
     "tailwind-css",
-    "nestjs",
-    "nextjs",
     "第二篇笔记.md"
   ]
 }
