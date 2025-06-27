@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "710cfb28f519ab96",
+        "id": "0bc159f94d3ba560",
         "type": "tabs",
         "children": [
           {
-            "id": "fc14619095b08816",
+            "id": "bbfd6a69ed3d3ae0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "react/react-compiler.md",
-                "mode": "source",
+                "file": "README.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "react-compiler"
-            }
-          },
-          {
-            "id": "cea45b117bdc927f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "git/index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
+              "title": "README"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -160,13 +145,23 @@
               "icon": "lucide-list",
               "title": "react-compiler 的大纲"
             }
+          },
+          {
+            "id": "014637d56832161c",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,20 +174,22 @@
       "publish:发布更改": false,
       "audio-recorder:开始/结束录音": false,
       "random-note:开始漫游笔记": false,
-      "markdown-importer:打开 Markdown 格式转换器": false
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "copilot:Open Copilot Chat": false
     }
   },
-  "active": "cea45b117bdc927f",
+  "active": "bbfd6a69ed3d3ae0",
   "lastOpenFiles": [
-    "terminal/index.md",
+    "react/react-compiler.md",
+    "README.md",
     "git/index.md",
+    "第二篇笔记.md",
+    "react/index.md",
+    "terminal/index.md",
     "git",
     "typescript/index.md",
-    "README.md",
     "terminal",
     "未命名.md",
-    "react/index.md",
-    "react/react-compiler.md",
     "react-native",
     "typescript",
     "nodejs",
@@ -200,7 +197,6 @@
     "html",
     "css",
     "javascript",
-    "tailwind-css",
-    "第二篇笔记.md"
+    "tailwind-css"
   ]
 }

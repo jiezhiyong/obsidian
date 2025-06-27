@@ -21,3 +21,42 @@
 
 ```python
 print("Hello, Obsidian!")
+```
+
+```mermaid
+sequenceDiagram
+    Alice->>Bob: Hello Bob, how are you ?
+    Bob->>Alice: Fine, thank you. And you?
+    create participant Carl
+    Alice->>Carl: Hi Carl!
+    create actor D as Donald
+    Carl->>D: Hi!
+    destroy Carl
+    Alice-xCarl: We are too many
+    destroy Bob
+    Bob->>Alice: I agree
+```
+
+```mermaid
+--- 
+config:
+  look: handDrawn
+  theme: forest
+  layout: elk
+---
+
+sequenceDiagram
+    autonumber
+    participant Alice
+    participant John
+    participant Bob
+
+    Alice->>John: Hello John, how are you?
+    loop Healthcheck
+        John->>John: Fight against hypochondria
+    end
+    Note right of John: Rational thoughts!
+    John-->>Alice: Great!
+    John->>Bob: How about you?
+    Bob-->>John: Jolly good!
+```
